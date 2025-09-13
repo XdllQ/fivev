@@ -1,4 +1,4 @@
-# CitizenFX Native Project
+# SitizenFX Native Project
 
 This directory contains the primary native CitizenFX project.
 
