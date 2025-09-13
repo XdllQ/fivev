@@ -1,53 +1,51 @@
-  CitizenFX/FiveM are (c) 2017-2020 the CitizenFX Collective.
+# Vidlluoforkroprietaryroprietaryidllucidlluc – SitizenFX Proprietary
 
-  Use of this source code is subject to the terms provided on the CitizenFX
-Collective web site, currently versioned (4) at the following web URL:
+**Copyright (c) 2025 Elijah Siita / VidllQ Authority**  
 
-  https://fivem.net/terms
+Vidllueors a fully proprietary custom fork of the CitizenFX Framework (FiveM). All modifications, scripts, modules, tools, and branding are created and maintained by SitizenFX under the authority of Sfx.re Limited.
 
-  The following files, as long as they are marked as licensed under the
-CitizenFX Project license, are optionally available under the LGPLv2, as in
-point 21) of the FiveM Platform Service Agreement, as of the time of this
-writing:
+---
 
-  client/shared/
-  client/citicore/
-  client/launcher/
-  client/common/
-  tools/
-  components/citizen-*/
-  components/font-renderer/
-  components/vfs-core/
-  components/steam/
-  vendor/*.lua
-  ./
+## Intellectual Property Rights
 
-  When using other components, please take into account point 20) in the FiveM
-PSA.
+All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by SitizenFX are the exclusive intellectual property of SitizenFX / Sfx.re.
 
-  This project is based on the original CitizenFX framework by NTAuthority,
-the original permission notice of which is reproduced below.
+This includes, but is not limited to:
 
-  Please note that this permission notice does not apply to any changes made
-since 2016.
+- Core server runtime and framework logic  
+- Custom gameplay systems, modules, and scripts  
+- Client-side scripts, UI, and multiplayer enhancements  
+- Build tools, configuration systems, and deployment pipelines  
+- Branding, logos, and product names associated with Vidlluc  
 
-Copyright (c) 2014 Bas Timmer/NTAuthority et al.
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Restrictions
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+You are NOT permitted to:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+- Use Vidllue or its code outside SitizenFX / Sfx.re without written permission  
+- Redistribute, publish, or upload any part of Vidlluc publicly  
+- Modify, decompile, reverse-engineer, or tamper with proprietary components  
+- Share it with third parties without explicit authorization  
+
+This software is for internal or authorized use only by SitizenFX / Sfx.re. Unauthorized use, distribution, or tampering may result in legal enforcement under applicable copyright law.  
+
+---
+
+## Legal Protection
+
+Vidllue is protected under Zambian copyright law and international treaties (Berne Convention).  
+
+---
+
+## Notice
+
+Icopyright appears publicly, on the internet, or in leaked form, SitizenFX / Sfx.re is not responsible. Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.  
+
+Use of Vidlluc implies full agreement to these terms.  
+
+---
+
+**End of License**
 
